@@ -222,3 +222,6 @@ __marimo__/
 # Environment files with secrets (keep the example file)
 .env.*
 !.env.example
+
+.history/
+.vscode/
